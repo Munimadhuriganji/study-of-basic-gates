@@ -80,8 +80,8 @@ endmodule
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:GANJI MUNI MADHURI 
- RegisterNumber:212223230060 
+ # Developed by:GANJI MUNI MADHURI 
+ # RegisterNumber:212223230060 
  ![image](https://github.com/Munimadhuriganji/study-of-basic-gates/assets/138849444/5dc127ca-8843-4e21-8e8a-a6353a1edfcd)
 
  
@@ -94,6 +94,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL**
 ![exp_11](https://github.com/Munimadhuriganji/study-of-basic-gates/assets/138849444/f8ee3501-814a-4987-a07e-29dbbaab58ea)
 
-**Result:**
+## Result:
 Hence the truth table of logic gates in Quartus II using Verilog programming is verified succesully.
 
