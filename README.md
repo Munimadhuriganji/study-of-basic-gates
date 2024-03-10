@@ -80,8 +80,8 @@ endmodule
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- # Developed by:GANJI MUNI MADHURI 
- # RegisterNumber:212223230060 
+  Developed by:GANJI MUNI MADHURI 
+  RegisterNumber:212223230060 
  ![image](https://github.com/Munimadhuriganji/study-of-basic-gates/assets/138849444/5dc127ca-8843-4e21-8e8a-a6353a1edfcd)
 
  
