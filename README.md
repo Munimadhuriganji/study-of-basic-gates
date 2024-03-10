@@ -63,17 +63,37 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
+module gates_exp1(a, b, c, d, e, x, y, z);
+  input a, b;
+  output c, d, e, x, y, z;
+
+  assign c = a & b;   // AND gate
+  assign d = a | b;   // OR gate
+  assign e = a ^ b;   // XOR gate
+  assign x = ~(a & b); // NAND gate
+  assign y = ~(a | b); // NOR gate
+  assign z = ~(a ^ b); // XNOR gate
+
+endmodule
+```
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by:GANJI MUNI MADHURI 
+ RegisterNumber:212223230060 
+ ![image](https://github.com/Munimadhuriganji/study-of-basic-gates/assets/138849444/5dc127ca-8843-4e21-8e8a-a6353a1edfcd)
+
  
 **Logic symbol & Truthtable**
+![Screenshot 2024-03-08 141947](https://github.com/Munimadhuriganji/study-of-basic-gates/assets/138849444/dda50200-1524-4b21-9a9c-c6f287e54a17)
 
 **RTL realization Output:** 
+![Screenshot 2024-03-08 133946](https://github.com/Munimadhuriganji/study-of-basic-gates/assets/138849444/ea62c699-3bb7-4509-8f34-112cda9a22ef)
 
 **RTL**
+![exp_11](https://github.com/Munimadhuriganji/study-of-basic-gates/assets/138849444/f8ee3501-814a-4987-a07e-29dbbaab58ea)
 
 **Result:**
-
+Hence the truth table of logic gates in Quartus II using Verilog programming is verified succesully.
 
